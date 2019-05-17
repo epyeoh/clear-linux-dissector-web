@@ -11,7 +11,7 @@ class Migration(migrations.Migration):
 
     dependencies = [
         migrations.swappable_dependency(settings.AUTH_USER_MODEL),
-        ('layerindex', '0029_imagecompare'),
+        ('layerindex', '0028_branch_hidden'),
     ]
 
     operations = [

@@ -8,7 +8,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('layerindex', '0040_versioncomparison_status'),
+        ('layerindex', '0039_comparison_sha256sum'),
     ]
 
     operations = [

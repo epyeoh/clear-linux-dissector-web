@@ -6,7 +6,7 @@ from django.db import migrations
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('layerindex', '0043_layerbranch_set_local_path'),
+        ('layerindex', '0041_recipe_configopts'),
     ]
 
     database_operations = [
